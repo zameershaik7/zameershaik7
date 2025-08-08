@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZAMEER UR RAHIMAN SHAIK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zameershaik7&label=Profile%20views&color=0e75b6&style=flat" alt="zameershaik7" /> </p>
 
